@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaiyisexow.kodestextile.ru/sitemap.xml
